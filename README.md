@@ -1,9 +1,9 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 3.0.0 </h1> 
+<h1 align="center"> Rajpoot_md Version 3.0.0 </h1> 
  <br>
 
 
 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v3.0.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p> <br>
+<p align="center"> Introducing Rajpoot_md v3.0.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p> <br>
 <p align="center"> Strictly Fork the repo first without modifying the name then proceed with your GitHub username. Direct link deployment will make heroku ban your account and I'm not liable for that.</p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://t.me/giftedmd" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.3.0.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
+  <a aria-label="Rajpoot_md v.3.0.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
     <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -30,7 +30,7 @@
 
 
 
-<p align="center"> ɢɪғᴛᴇᴅ ᴍᴅ V.3.0.0 uses
+<p align="center"> Rajpoot ᴍᴅ V.3.0.0 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
