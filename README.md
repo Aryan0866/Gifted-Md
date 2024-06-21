@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/mouricedevs/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg">
+    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/672e31f007fda7cd2aac6.jpg">
   </a>
 </p>
     
